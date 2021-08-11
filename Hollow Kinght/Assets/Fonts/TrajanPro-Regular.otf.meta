@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 822b3886aa7406e498a43d77331e3598
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Trajan Pro
+  fontNames:
+  - Trajan Pro
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 1fad47f4736bd3e4097add424b773224, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
